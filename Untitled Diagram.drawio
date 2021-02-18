@@ -1,4 +1,4 @@
-<mxfile modified="2021-02-18T07:47:07.981Z" host="app.diagrams.net" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="t5PeL4qW5iV64kXO2D0D" version="14.4.2" type="github">
+<mxfile modified="2021-02-18T07:48:36.827Z" host="app.diagrams.net" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="Gkcp0BJklkP3-WB_WRJW" version="14.4.2" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="2170" dy="1155" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -29,31 +29,31 @@
           <mxGeometry x="415.5" y="248.5" width="20" height="290" as="geometry" />
         </mxCell>
         <mxCell id="7OVz4w7n9kzEPWy-4BBC-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EAEDED;fontSize=22;fontColor=#FFFFFF;strokeColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="52.06" y="937" width="539" height="510" as="geometry" />
+          <mxGeometry x="140" y="744.5" width="539" height="510" as="geometry" />
         </mxCell>
         <mxCell id="7OVz4w7n9kzEPWy-4BBC-4" value="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="70.06" y="949" width="40" height="38" as="geometry" />
+          <mxGeometry x="158" y="756.5" width="40" height="38" as="geometry" />
         </mxCell>
         <mxCell id="7OVz4w7n9kzEPWy-4BBC-5" value="2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="68.56" y="1051" width="40" height="38" as="geometry" />
+          <mxGeometry x="156.5" y="858.5" width="40" height="38" as="geometry" />
         </mxCell>
         <mxCell id="7OVz4w7n9kzEPWy-4BBC-6" value="3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="70.06" y="1143" width="40" height="38" as="geometry" />
+          <mxGeometry x="158" y="950.5" width="40" height="38" as="geometry" />
         </mxCell>
         <mxCell id="7OVz4w7n9kzEPWy-4BBC-7" value="4" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="68.56" y="1237" width="40" height="38" as="geometry" />
+          <mxGeometry x="156.5" y="1044.5" width="40" height="38" as="geometry" />
         </mxCell>
         <mxCell id="7OVz4w7n9kzEPWy-4BBC-13" value="&lt;span&gt;Lever Raw Data and Admin Data is sourced into the sheets using an API&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="121.56" y="948.5" width="449" height="118" as="geometry" />
+          <mxGeometry x="209.5" y="756" width="449" height="118" as="geometry" />
         </mxCell>
         <mxCell id="7OVz4w7n9kzEPWy-4BBC-14" value="&lt;span&gt;The Raw Data is recombined and cleaned with Lever Data. Admin Data is cleaned for visualization&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="121.56" y="1055.19" width="450" height="57" as="geometry" />
+          <mxGeometry x="209.5" y="862.69" width="450" height="57" as="geometry" />
         </mxCell>
         <mxCell id="7OVz4w7n9kzEPWy-4BBC-15" value="&lt;span&gt;Marketing Data from multiple sheets are recombined and added for better insight into Ad=Spend and Other business related expenses&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="121.56" y="1143" width="450" height="40" as="geometry" />
+          <mxGeometry x="209.5" y="950.5" width="450" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7OVz4w7n9kzEPWy-4BBC-16" value="&lt;span&gt;Marketing Data is re-combined with Admin and Lever data for maximum detail and insights into the entire funnel&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="121.56" y="1236.5" width="450" height="50" as="geometry" />
+          <mxGeometry x="209.5" y="1044" width="450" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7lbI2WYPHTsZr3DywFSL-2" value="" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="438" width="60" height="60" as="geometry" />
@@ -245,10 +245,10 @@
           <mxGeometry x="862.5600000000001" y="1624.75" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7lbI2WYPHTsZr3DywFSL-111" value="5" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="68.56" y="1307.5" width="40" height="38" as="geometry" />
+          <mxGeometry x="156.5" y="1115" width="40" height="38" as="geometry" />
         </mxCell>
         <mxCell id="7lbI2WYPHTsZr3DywFSL-112" value="Sheets are sourced into Google DataStudio for visualization" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="121.56" y="1307" width="450" height="50" as="geometry" />
+          <mxGeometry x="209.5" y="1114.5" width="450" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
